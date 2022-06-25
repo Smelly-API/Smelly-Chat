@@ -105,4 +105,3 @@ Watch the most recent video by Smell of curry:
 https://youtu.be/zSiZrsqKSaQ
 
 For support, join the discord: https://discord.gg/dMa3A5UYKX
-
